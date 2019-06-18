@@ -1,0 +1,19 @@
+{
+  "name": "robo",
+  "version": "1.0.0",
+  "description": "Projeto cria robôs que faz videos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiagomoi/robo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tiagomoi/robo/issues"
+  },
+  "homepage": "https://github.com/tiagomoi/robo#readme"
+}
